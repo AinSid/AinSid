@@ -1,4 +1,4 @@
-# Ain Siddiqui
+## Ain Siddiqui
 
 I’m pursuing an MS in Data Science at Columbia University. I previously studied Math and Computer Science at UCLA.
 
@@ -11,4 +11,4 @@ I also recently built an end-to-end [A/B testing project](https://www.ab-test.si
 
 ----
 
-[LinkedIn](https://www.linkedin.com/in/ain1/) · [Email](mailto:as8316@columbia.edu) · [Phone](tel:+14244409353)
+[LinkedIn](https://www.linkedin.com/in/ain1/)  ·  [Email](mailto:as8316@columbia.edu)  ·  [Website](https://www.ain-siddiqui.com/) 
