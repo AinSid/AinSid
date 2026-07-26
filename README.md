@@ -1,16 +1,14 @@
-## Hi there 👋
+## Ain Siddiqui
 
-<!--
-**AinSid/AinSid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m pursuing an MS in Data Science at Columbia University. I previously studied Math and Computer Science at UCLA.
 
-Here are some ideas to get you started:
+I also work as a Technical Product Manager of Data Platforms at Wood Mackenzie. My work spans infrastructure products, consumer technology, forecasting, and experimentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find more details about me on my [personal website](https://www.ain-siddiqui.com/) here.
+
+
+I also recently built an end-to-end [A/B testing project](https://www.ab-test.site/) for personalized AI quizzes, from experiment design and statistical analysis through a targeted rollout recommendation.
+
+----
+
+[LinkedIn](https://www.linkedin.com/in/ain1/) · [Email](mailto:as8316@columbia.edu) · New York
