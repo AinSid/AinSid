@@ -11,4 +11,4 @@ I also recently built an end-to-end [A/B testing project](https://www.ab-test.si
 
 ----
 
-[LinkedIn](https://www.linkedin.com/in/ain1/)  ·  [Email](mailto:as8316@columbia.edu)  ·  [Website](https://www.ain-siddiqui.com/) 
+[LinkedIn](https://www.linkedin.com/in/ain1/)  ·  [Email](mailto:ain.s@columbia.edu)  ·  [Website](https://www.ain-siddiqui.com/) 
